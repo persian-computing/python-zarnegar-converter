@@ -4,6 +4,9 @@ Converter for Zarnegar Encoding and File Format to Unicode Text
 
 Homepage: https://github.com/behnam/python-zarnegar-converter
 
+.. image:: https://img.shields.io/travis/behnam/python-zarnegar-converter.svg
+    :target: https://travis-ci.org/behnam/python-zarnegar-converter
+
 `Zarnegar`_ (Persian: *زرنگار*, zarnegār, meaning gold-depicting) is a
 commercial, stand-alone Persian/Arabic word processor program developed for
 MS-DOS and Windows.  The first version of Zarnegar (for DOS), was released in
