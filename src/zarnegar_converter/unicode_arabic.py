@@ -22,8 +22,8 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
-import unicode_bidi
-from unicode_joining import remove_useless_joining_control_chars, ZWNJ, ZWJ as ZWJ_
+from zarnegar_converter import unicode_bidi
+from zarnegar_converter.unicode_joining import remove_useless_joining_control_chars, ZWNJ, ZWJ as ZWJ_
 
 
 """

@@ -26,8 +26,8 @@ import sys
 import struct
 import logging
 
-import zar1_encoding
-from zar_file import ZarFile, ZarFileTypeError, OUTPUT_NEW_LINE
+from zarnegar_converter import zar1_encoding
+from zarnegar_converter.zar_file import ZarFile, ZarFileTypeError, OUTPUT_NEW_LINE
 
 
 """

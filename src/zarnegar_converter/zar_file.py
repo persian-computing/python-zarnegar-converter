@@ -32,7 +32,7 @@ class ZarFile(object):
 
     @staticmethod
     def get(in_file):
-        from zar1_file import Zar1File
+        from zarnegar_converter.zar1_file import Zar1File
         return Zar1File.get(in_file)
 
     # == DEBUG ==

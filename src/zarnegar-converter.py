@@ -18,6 +18,7 @@
 #
 # Author(s): Behnam Esfahbod <behnam@zwnj.org>
 
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -27,7 +28,7 @@ import sys
 import os
 import logging
 
-from zar_file import ZarFile
+from zarnegar_converter.zar_file import ZarFile
 
 
 """

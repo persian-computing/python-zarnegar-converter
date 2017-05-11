@@ -46,7 +46,7 @@ How to Use
 
 .. code:: bash
 
-  $ zarnegar_converter/converter.py unicode_legacy_lro samples/zar1-sample-text-01.zar
+  $ ./src/zarnegar-converter.py unicode_legacy_lro samples/zar1-sample-text-01.zar
   ‭                                                          ﻡﺎﯾﺧ ﺕﺎﯾﻋﺎﺑﺭ ﻩﺭﺎﺑﺭﺩ |
   ‭                                                            ﯽﻧﭘﺍﮊ ﺭﻌﺷ ﺭﺩ ﻭﮐﯾﺎﻫ |
 

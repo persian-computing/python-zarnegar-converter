@@ -24,8 +24,8 @@ from __future__ import unicode_literals
 
 import logging
 
-import unicode_arabic
-import unicode_bidi
+from zarnegar_converter import unicode_arabic
+from zarnegar_converter import unicode_bidi
 
 """
 Convert Zarnegar Encoding to Unicode Arabic Presentation Form
